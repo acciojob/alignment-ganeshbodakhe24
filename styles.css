@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
 .middle{
 	width:100%;
-	text-align:center:
-	border:;
+	text-align:center;
+	border:1px solid black;
 }
 .right{
 	text-align:right;
