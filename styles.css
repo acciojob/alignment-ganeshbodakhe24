@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.middle{
+	width:100%;
+	text-align:center:
+}
+.right{
+	text-align:right;
+}
+.center{
+	text-align:center;
+}
